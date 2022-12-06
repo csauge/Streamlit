@@ -1,4 +1,3 @@
-import os
-import datetime
+import streamlit as st
 
-print("Hello")
+st.write("# Hello\nWorld !")
